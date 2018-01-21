@@ -1,0 +1,8 @@
+{
+  "name": "otiums-tabs",
+  "app_id": "035bfc91",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
