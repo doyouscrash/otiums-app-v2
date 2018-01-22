@@ -1,0 +1,7 @@
+export { HomePage } from './home/home'
+export { IntroPage } from './intro/intro'
+export { SearchPage } from './search/search'
+export { MapPage } from './map/map'
+export { FriendsPage } from './friends/friends'
+export { ProfilePage } from './profile/profile'
+export { TabsPage } from './tabs/tabs'
